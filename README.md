@@ -1,4 +1,4 @@
-# Combined-Search-Algorithm
+# Search Algorithm
 In this, I implemented the following search algorithms to deliver goods from a starting position S to a destination position D in an undirected weighted graph G:
 ● Breadth-first search
 ● Depth-first search
